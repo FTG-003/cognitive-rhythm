@@ -1,0 +1,332 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2025-05-21T10:33:56.731113+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/FTG-003/cognitive-rhythm",
+    "code:developmentStatus": {
+      "id": "active",
+      "title": {
+        "en": "Active"
+      }
+    }
+  },
+  "expires_at": "2025-05-21 10:33:56.731101",
+  "files": {
+    "count": 5,
+    "enabled": true,
+    "entries": {
+      "1.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:657736a69fbb6bc018b30adc7a88fc7c",
+        "ext": "png",
+        "id": "13203e91-3d88-46ee-a9de-c885907f2bf5",
+        "key": "1.png",
+        "metadata": {
+          "height": 1024,
+          "width": 1536
+        },
+        "mimetype": "image/png",
+        "size": 1684093,
+        "storage_class": "L"
+      },
+      "2.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:be1d3451c16f4c93c0ce6d85f039f918",
+        "ext": "png",
+        "id": "89699b03-af26-46bc-b7ea-b32a327c38f0",
+        "key": "2.png",
+        "metadata": {
+          "height": 1024,
+          "width": 1536
+        },
+        "mimetype": "image/png",
+        "size": 1490184,
+        "storage_class": "L"
+      },
+      "3.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:21f29eb066f00ff240a0d9f0b6c0e663",
+        "ext": "png",
+        "id": "1931ecce-7dbe-48ec-9258-1c0b242dadf0",
+        "key": "3.png",
+        "metadata": {
+          "height": 1024,
+          "width": 1024
+        },
+        "mimetype": "image/png",
+        "size": 991471,
+        "storage_class": "L"
+      },
+      "4.png": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:59ed3b62e74fcbb334b1ee562f77ed60",
+        "ext": "png",
+        "id": "2a33d67d-b1a7-4e83-a1f0-524c61c5cbd6",
+        "key": "4.png",
+        "metadata": {
+          "height": 1024,
+          "width": 1536
+        },
+        "mimetype": "image/png",
+        "size": 1665422,
+        "storage_class": "L"
+      },
+      "The_Cognitive_Rhythm_Theory.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:c46245581ea6e39ef2cde25d8cdcdcfe",
+        "ext": "pdf",
+        "id": "dc832f74-ad24-42ce-ac36-706bf35e9316",
+        "key": "The_Cognitive_Rhythm_Theory.pdf",
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 6256537,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 12087707
+  },
+  "id": "15480363",
+  "is_draft": true,
+  "is_published": false,
+  "links": {
+    "access": "https://zenodo.org/api/records/15480363/access",
+    "access_grants": "https://zenodo.org/api/records/15480363/access/grants",
+    "access_links": "https://zenodo.org/api/records/15480363/access/links",
+    "access_request": "https://zenodo.org/api/records/15480363/access/request",
+    "access_users": "https://zenodo.org/api/records/15480363/access/users",
+    "archive": "https://zenodo.org/api/records/15480363/draft/files-archive",
+    "archive_media": "https://zenodo.org/api/records/15480363/draft/media-files-archive",
+    "communities": "https://zenodo.org/api/records/15480363/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/15480363/communities-suggestions",
+    "files": "https://zenodo.org/api/records/15480363/draft/files",
+    "media_files": "https://zenodo.org/api/records/15480363/draft/media-files",
+    "preview_html": "https://zenodo.org/records/15480363?preview=1",
+    "publish": "https://zenodo.org/api/records/15480363/draft/actions/publish",
+    "record": "https://zenodo.org/api/records/15480363",
+    "record_html": "https://zenodo.org/records/15480363",
+    "requests": "https://zenodo.org/api/records/15480363/requests",
+    "reserve_doi": "https://zenodo.org/api/records/15480363/draft/pids/doi",
+    "review": "https://zenodo.org/api/records/15480363/draft/review",
+    "self": "https://zenodo.org/api/records/15480363/draft",
+    "self_html": "https://zenodo.org/uploads/15480363",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/draft:15480363/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/draft:15480363/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:15480363:The_Cognitive_Rhythm_Theory.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:15480363:The_Cognitive_Rhythm_Theory.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:15480363:The_Cognitive_Rhythm_Theory.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:15480363:The_Cognitive_Rhythm_Theory.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:15480363:The_Cognitive_Rhythm_Theory.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:15480363:The_Cognitive_Rhythm_Theory.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/15480363/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "Terzi",
+          "given_name": "Fabrizio",
+          "identifiers": [
+            {
+              "identifier": "0009-0004-7191-0455",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "Terzi, Fabrizio",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      }
+    ],
+    "description": "<h3><strong>Abstract:</strong></h3>\n<p><strong>Cognitive rhythm</strong> represents a fundamental&mdash;yet largely unexplored&mdash;dimension of human&ndash;AI interaction.<br>This paper presents a formal theory that describes how <strong>cognitive synchronization</strong>, <strong>phase shifts</strong>, and <strong>resonance</strong> shape the way humans and artificial intelligence learn, think, and create together.</p>\n<p>We introduce a mathematical model:<br><strong>RC(H, A, t) = f (&Delta;&Phi;H(t), &Delta;&Phi;A(t), S(t), R(t))</strong></p>\n<p>where:<br>&bull; <strong>&Delta;&Phi;H(t)</strong> = variation in human cognitive phase at time <em>t</em><br>&bull; <strong>&Delta;&Phi;A(t)</strong> = variation in AI cognitive phase at time <em>t</em><br>&bull; <strong>S(t)</strong> = level of synchronization at time <em>t</em><br>&bull; <strong>R(t)</strong> = quality of resonance at time <em>t</em></p>\n<p>Through conceptual and simulated case studies, we demonstrate how this framework can inform the design of more effective and adaptive collaborative AI systems.</p>\n<p>The implications of this theory go beyond technical optimization&mdash;touching on the <strong>philosophical</strong> and <strong>ethical</strong> dimensions of human&ndash;AI co-creation.<br>We argue that cognitive rhythm is not just a metaphor, but an <strong>operational principle</strong> that can profoundly transform our understanding and design of <strong>symbiotic AI systems</strong>.</p>",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2025-05-20",
+    "publisher": "Zenodo",
+    "related_identifiers": [
+      {
+        "identifier": "10.1093/analys/58.1.7",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "978-0-19-879432-5",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "scheme": "isbn"
+      },
+      {
+        "identifier": "978-0-262-72021-2",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "scheme": "isbn"
+      },
+      {
+        "identifier": "978-0-521-53352-2",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "scheme": "isbn"
+      },
+      {
+        "identifier": "10.1016/j.neuron.2019.10.011",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "scheme": "doi"
+      },
+      {
+        "identifier": "978-0-471-24195-9",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "scheme": "isbn"
+      },
+      {
+        "identifier": "10.1007/978-3-642-54474-3_1",
+        "relation_type": {
+          "id": "cites",
+          "title": {
+            "de": "Zitiert",
+            "en": "Cites"
+          }
+        },
+        "resource_type": {
+          "id": "publication-section",
+          "title": {
+            "de": "Buchkapitel",
+            "en": "Book chapter"
+          }
+        },
+        "scheme": "doi"
+      }
+    ],
+    "resource_type": {
+      "id": "publication",
+      "title": {
+        "de": "Publikation",
+        "en": "Publication"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "cognitive rhythm, human-AI collaboration, co-creation, synchronization,resonance, temporal dynamics, 4E cognition."
+      }
+    ],
+    "title": "The Cognitive Rhythm Theory - Ai-Human Co-Creation Education and Beyond",
+    "version": "v1.0 \u2013 2025-04-01"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1324921"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "15480362",
+    "pids": {}
+  },
+  "pids": {},
+  "revision_id": 27,
+  "status": "draft",
+  "updated": "2025-05-21T11:28:39.211897+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": false,
+    "is_latest_draft": true
+  }
+}

@@ -1,4 +1,6 @@
 # 🧠 Cognitive Rhythm in AI–Human Co-Creation
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15480363.svg)](https://doi.org/10.5281/zenodo.15480363)
+
 
 **A Formal Theory of Cognitive Synchrony, Phase Shifts, and Resonance**  
 by Fabrizio Terzi & Gino Manus – *2025*
@@ -12,7 +14,8 @@ This repository contains the main materials related to our academic paper:
 > “**Cognitive Rhythm in AI–Human Co-Creation**” introduces a mathematical and philosophical framework to describe the emergent temporal dynamics between human and artificial cognition, centered on the function:  
 > **RC(H, A, t) = f(ΔΦH(t), ΔΦA(t), S(t), R(t))**
 
-🔗 Read the full paper on Zenodo: [DOI:10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)  
+🔗 📄 Read the full paper on Zenodo: [DOI:10.5281/zenodo.15480363](https://doi.org/10.5281/zenodo.15480363)
+ 
 📝 Participate in the peer-review: [bit.ly/RC-ReviewHub](https://bit.ly/RC-ReviewHub)
 
 ---
